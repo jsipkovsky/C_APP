@@ -1,0 +1,15 @@
+C:\Users\sipko\source\repos\C_APP\C_APP\bin\Debug\C_APP.exe.config
+C:\Users\sipko\source\repos\C_APP\C_APP\bin\Debug\C_APP.exe
+C:\Users\sipko\source\repos\C_APP\C_APP\bin\Debug\C_APP.pdb
+C:\Users\sipko\source\repos\C_APP\C_APP\obj\Debug\C_APP.csprojAssemblyReference.cache
+C:\Users\sipko\source\repos\C_APP\C_APP\obj\Debug\MainWindow.g.cs
+C:\Users\sipko\source\repos\C_APP\C_APP\obj\Debug\App.g.cs
+C:\Users\sipko\source\repos\C_APP\C_APP\obj\Debug\C_APP_MarkupCompile.cache
+C:\Users\sipko\source\repos\C_APP\C_APP\obj\Debug\C_APP_MarkupCompile.lref
+C:\Users\sipko\source\repos\C_APP\C_APP\obj\Debug\MainWindow.baml
+C:\Users\sipko\source\repos\C_APP\C_APP\obj\Debug\C_APP.g.resources
+C:\Users\sipko\source\repos\C_APP\C_APP\obj\Debug\C_APP.Properties.Resources.resources
+C:\Users\sipko\source\repos\C_APP\C_APP\obj\Debug\C_APP.csproj.GenerateResource.cache
+C:\Users\sipko\source\repos\C_APP\C_APP\obj\Debug\C_APP.csproj.CoreCompileInputs.cache
+C:\Users\sipko\source\repos\C_APP\C_APP\obj\Debug\C_APP.exe
+C:\Users\sipko\source\repos\C_APP\C_APP\obj\Debug\C_APP.pdb
